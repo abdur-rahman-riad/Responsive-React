@@ -4,7 +4,7 @@ import './Service.css';
 const Service = (props) => {
     const { name, price, time, img } = props.service;
     return (
-        <div>
+        <div className="single-service">
             <h3>{name}</h3>
             <h3>{price}</h3>
             <h4>{time}</h4>

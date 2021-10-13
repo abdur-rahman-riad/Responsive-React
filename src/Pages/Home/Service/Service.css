@@ -1,0 +1,11 @@
+.single-service{
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.single-service img{
+    width: 90%;
+    border-radius: 8px;
+    border: 3px solid gray;
+}
+
