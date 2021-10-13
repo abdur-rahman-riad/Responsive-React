@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Single Service-1",
+        "price": 200,
+        "time": 2,
+        "img": "https://i.ytimg.com/vi/acCEibz7xms/maxresdefault.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Single Service-2",
+        "price": 200,
+        "time": 2,
+        "img": "https://images.prismic.io/leasefetcher/d24f9646-851d-4db2-afc5-4bafc1204958_what-does-car-service-include.jpg?auto=compress,format"
+    },
+    {
+        "id": 3,
+        "name": "Single Service-3",
+        "price": 200,
+        "time": 2,
+        "img": "https://ak.picdn.net/shutterstock/videos/23174869/thumb/11.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Single Service-4",
+        "price": 200,
+        "time": 2,
+        "img": "https://ak.picdn.net/shutterstock/videos/23370025/thumb/11.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Single Service-5",
+        "price": 200,
+        "time": 2,
+        "img": "https://www.carcility.com/blog/wp-content/uploads/2019/12/car-service-apps-carcility.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Single Service-6",
+        "price": 200,
+        "time": 2,
+        "img": "https://www.autoserviceworld.com/wp-content/uploads/2020/01/team-labor-model-auto-repair-worker-png-and-vector-for-free-automotive-repair-png-650_400.png.jpeg"
+    }
+]
