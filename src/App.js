@@ -4,7 +4,7 @@ import Services from './Pages/Home/Services/Services';
 function App() {
   return (
     <div className="App">
-      <h2>Responsive React</h2>
+      <h2 className="fw-bold py-3 text-primary">Responsive React</h2>
       <Services></Services>
     </div>
   );
